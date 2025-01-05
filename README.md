@@ -13,8 +13,7 @@ To get started with the E-Learning Platform, follow these steps:
 1) Clone the repository:<b>
 
 <b>Copy code</b>
-git clone https://github.com/dikshabhor79/ITR-REPO.git.
-
+git clone (https://github.com/dikshabhor791/ITR.git)
 
 # Usage
 Once the application is running, you can access the following features:
